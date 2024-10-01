@@ -1,2 +1,1 @@
-require("jfz.core")
-require("jfz.lazy")
+require("jannfz")
